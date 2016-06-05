@@ -1,6 +1,12 @@
-## ReactHero
+# ReactHero
 > Tools to get started with react quickly
 
+# Install
+```
+$ npm install react-hero --save
+```
+
+# Usage
 ## Create Server
 
 #### Create HTML file
