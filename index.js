@@ -1,4 +1,4 @@
-const DevServer = require('./lib/dev-server.js');
+const DevServer = require('./lib/devServer.js');
 const webpackConfigProduction = require('./lib/webpackConfigProduction.js');
 const webpackCompiler = require('./lib/webpackCompiler.js');
 
