@@ -2,7 +2,7 @@
   "name": "react-hero",
   "description": "Tools to get started with react quickly",
   "version": "0.0.2",
-  "devDependencies": {
+  "dependencies": {
     "autoprefixer": "^6.3.6",
     "ava": "^0.14.0",
     "babel-core": "^6.8.0",
@@ -50,8 +50,6 @@
     "webpack": "~1.4.13",
     "webpack-dev-server": "^1.14.1",
     "xhr2": "^0.1.3"
-  },
-  "dependencies": {
   },
   "scripts": {
     "dist": "./node_modules/webpack/bin/webpack.js -p --progress",
