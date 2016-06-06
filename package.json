@@ -1,7 +1,7 @@
 {
   "name": "react-hero",
   "description": "Tools to get started with react quickly",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "autoprefixer": "^6.3.6",
     "ava": "^0.14.0",
